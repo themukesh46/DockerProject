@@ -11,6 +11,11 @@
     <artifactId>selenium-java</artifactId>
     <version>4.23.1</version>
 </dependency>
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-log4j12</artifactId>
+    <version>1.7.36</version> <!-- or the latest stable version -->
+</dependency>
 
   
   </dependencies>
