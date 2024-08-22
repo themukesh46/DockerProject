@@ -23,6 +23,7 @@ public class DockerWithFirefox {
         
         System.out.print(driver.getTitle());
 		
+        driver.quit();
 	}
 
 }
